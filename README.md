@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Adetayo Imole Banner" width="100%">
+</p>
+
 # Hi there! I'm Adetayo Imole
 
 Welcome to my GitHub!
