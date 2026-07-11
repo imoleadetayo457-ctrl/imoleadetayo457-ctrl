@@ -94,10 +94,12 @@ An end-to-end machine learning project for predicting customer churn using data 
 Thank you for taking the time to visit my profile. Feel free to explore my repositories and follow my journey as I continue building projects in Data Science, Machine Learning, and Artificial Intelligence.
 ## GitHub Statistics
 
+## GitHub Statistics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imoleadetayo457-ctrl&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imoleadetayo457-ctrl&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imoleadetayo457-ctrl&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imoleadetayo457-ctrl&layout=compact&langs_count=8&theme=tokyonight" />
 </p>
